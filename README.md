@@ -1,10 +1,8 @@
 # Pulse
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/Pulse?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/Pulse?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/pbgollo/Pulse?style=for-the-badge)
 
 <img src="imagem.png" alt="Exemplo imagem">
 
@@ -15,6 +13,7 @@
 As tecnologias...
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💻 Pré-requisitos
@@ -59,9 +58,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://avatars.githubusercontent.com/u/130512644" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/130512644" width="100px;" alt="Foto do Pedro Gollo no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Pedro Gollo</b>
         </sub>
       </a>
     </td>

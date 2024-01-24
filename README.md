@@ -1,4 +1,4 @@
-# Pulse
+# Pulse - Reprodutor Musical em Java
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/Pulse?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/Pulse?style=for-the-badge)
@@ -22,13 +22,15 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 
 - Você tem uma máquina Windows
 - Você instalou a versão mais recente do MySQL
+- Você instalou e configurou o Eclipse IDE
 
 ## 🚀 Instalando o Pulse
 
 Para instalar o aplicativo, siga estas etapas:
 
-- Importe o arquivo Pulse.zip no Eclipse
-- Modifique o arquivo /Pulse/auxiliar/properties/database.properties para acessar o seu banco de dados
+- Importe o arquivo "Pulse.zip" no Eclipse
+- Modifique o arquivo "/Pulse/auxiliar/properties/database.properties" para acessar o seu banco de dados
+- Execute o arquivo "Principal" que possui o método main
 
 ## ☕ Usando o Pulse
 

@@ -32,7 +32,7 @@ Para instalar o aplicativo, siga estas etapas:
 
 ## ☕ Usando o Pulse
 
-Para um melhor entendimento do funcionamento do aplicativo, recomenda-se ler a seção 5 do artigo do projeto.
+Para um melhor entendimento do funcionamento do aplicativo, recomenda-se ler a seção 5 do <a href="pulse/Artigo.pdf">artigo do projeto</a>.
 
 ## 🤝 Colaboradores
 

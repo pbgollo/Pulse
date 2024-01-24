@@ -18,27 +18,17 @@ No projeto, a principal tecnologia adotada foi o Java, utilizando a biblioteca S
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Antes de começar, verifique se você atende aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você tem uma máquina Windows
+- Você instalou a versão mais recente do MySQl
 
 ## 🚀 Instalando o Pulse
 
 Para instalar o aplicativo, siga estas etapas:
 
-Linux e macOS:
-
-```
-<comando_de_instalação>
-```
-
-Windows:
-
-```
-<comando_de_instalação>
-```
+- Importe o arquivo Pulse.zip no Eclipse
+- Modifique o arquivo /Pulse/auxiliar/properties/database.properties para acessar o seu banco de dados
 
 ## ☕ Usando o Pule
 

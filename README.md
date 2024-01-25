@@ -43,7 +43,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pbgollo" title="Perfil do Pedro Gollo">
+      <a href="https://github.com/pbgollo" title="Perfil do Pedro Gollo no GitHub">
         <img src="https://avatars.githubusercontent.com/u/130512644" width="100px;" alt="Foto do Pedro Gollo no GitHub"/><br>
         <sub>
           <b>Pedro Gollo</b>
@@ -51,7 +51,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
+      <a href="https://github.com/Schneiderella" title="Perfil da Bárbara no GitHub">
         <img src="https://avatars.githubusercontent.com/u/110864285" width="100px;" alt="Foto da Bárbara no GitHub"/><br>
         <sub>
           <b>Bárbara Schneider</b>
@@ -59,7 +59,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
+      <a href="#" title="Perfil do Franco no GitHub">
         <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Franco no GitHub"/><br>
         <sub>
           <b>Franco Michelon</b>

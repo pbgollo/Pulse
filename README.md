@@ -59,8 +59,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="Perfil do Franco no GitHub">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Franco no GitHub"/><br>
+      <a href="https://github.com/FasterThanM" title="Perfil do Franco no GitHub">
+        <img src="https://avatars.githubusercontent.com/u/129175432" width="100px;" alt="Foto do Franco no GitHub"/><br>
         <sub>
           <b>Franco Michelon</b>
         </sub>

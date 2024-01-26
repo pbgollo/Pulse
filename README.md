@@ -1,4 +1,4 @@
-# Pulse - Reprodutor Musical em Java
+# Pulse: Reprodutor Musical em Java
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/Pulse?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/Pulse?style=for-the-badge)
